@@ -2,7 +2,7 @@
 
 Lovers is an elegant way to keep track of your sex partners. It provides you with quick statistics of your sex life, like the total amount of partners, the amount of different nationalities, your Panda points etc.
 
-### Support Information for Lovers App Users
+## Support Information for Lovers App Users
 
 Thank you for using Lovers. We are here to assist you with any questions or issues you may encounter. Our commitment is to ensure that your experience with our app is smooth and enjoyable.
 
@@ -23,6 +23,16 @@ Our standard response time is within 48 hours on weekdays. We appreciate your pa
 
 We value your feedback and are continually striving to improve our app and services. Thank you for choosing Lovers.
 
-### Privacy Policy
+## Privacy Policy
 
-None of your data is sent or received in the Lovers app. Everything is handled on your device and we don't have any way to access this information. And we also don't want to 😏!
+### Introduction
+
+Your privacy is important to us. Lovers is committed to respecting your privacy and ensuring the protection of any information you provide while using our app.
+
+### Data Collection
+
+Lovers does not collect, store, or transmit any personal data. All information entered, generated, or used by the app is stored locally on your device. We do not have access to any of your information, and no data is sent to or stored on any servers.
+
+### Data Storage
+
+All user data associated with Lovers is stored exclusively on your personal device. We do not access or manage your data, ensuring your information remains private and under your control.
