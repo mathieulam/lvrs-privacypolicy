@@ -13,11 +13,11 @@ For any support-related inquiries, please reach out to us via email. We aim to r
 Email Support: mathieu.lamvohee@gmail.com
 Please include the following information when you contact us:
 
-Your name and contact information
-A detailed description of the issue or question
-Any screenshots or additional information that might help us understand the problem better
+- Your name and contact information
+- A detailed description of the issue or question
+- Any screenshots or additional information that might help us understand the problem better
 
-#### Response Time
+### Response Time
 
 Our standard response time is within 48 hours on weekdays. We appreciate your patience and understanding as we work to resolve your issue as quickly and efficiently as possible.
 
